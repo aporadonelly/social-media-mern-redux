@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb+srv://nelly:nelly@mern-social-app-sv9da.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "145aaf4bc9b670b4dd86",
+  "githubSecret": "e0c5c9cd53804e1608f2abd2ddb1761a081b8672",
+  "githubToken": "af277f92af69e4222215ddcddae7048f8d6c412d"
+}
